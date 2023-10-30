@@ -1,0 +1,24 @@
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR15\bin\Debug\PR15.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR15\bin\Debug\PR15.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR15\bin\Debug\PR15.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR15\obj\Debug\PR15.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR15\obj\Debug\PR15.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR15\obj\Debug\PR15.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR15\obj\Debug\PR15.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR15\obj\Debug\PR15.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR15\bin\Debug\PR15.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR15\bin\Debug\PR15.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR15\bin\Debug\PR15.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR15\obj\Debug\PR15.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR15\obj\Debug\PR15.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR15\obj\Debug\PR15.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR15\obj\Debug\PR15.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR15\obj\Debug\PR15.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR15\bin\Debug\PR15.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR15\bin\Debug\PR15.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR15\bin\Debug\PR15.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR15\obj\Debug\PR15.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR15\obj\Debug\PR15.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR15\obj\Debug\PR15.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR15\obj\Debug\PR15.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR15\obj\Debug\PR15.pdb
